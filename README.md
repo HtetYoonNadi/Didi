@@ -1,6 +1,6 @@
 # Hi, I'm Nadi, u can call me Didi 🧸!
 
-About me: 
+About me: <br/>
 🦦 A first-year student majoring in Computing with Business Management at Strategy First University. <br/>
 
 🐻 I'm passionate about technology, design, and building great web experiences. <br/>
@@ -25,7 +25,7 @@ About me:
 
   - Improving responsive design skills 🌐
 
-📫 How to Reach Me
+📫 How to Reach Me <br/>
   📧 Email: htetyoonnadi2006@gmail.com 
 
 ## 🌐 Socials:
